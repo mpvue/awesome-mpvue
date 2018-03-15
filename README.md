@@ -9,11 +9,28 @@
 * PR 到本仓库
 * 等待 Review
 
-## 组件/类库
-[WeUI](https://github.com/KuangPF/wxapp-vue)
+### 目录
 
-[mpvue-toast](https://github.com/linrui1994/mpvue-toast)
+- [框架](#框架)
+- [组件](#组件)
+- [示例](#示例)
+- [文档](#文档)
 
-[富文本组件](https://github.com/F-loat/mpvue-wxParse)
+## 框架
 
-[mpvue-zanui](https://github.com/samwang1027/mpvue-zanui)
+* [WeUI](https://github.com/KuangPF/wxapp-vue) - 用 vue 写小程序，基于 mpvue 框架重写 weui。
+* [mpvue-zanui](https://github.com/samwang1027/mpvue-zanui) - 使用 mpvue 框架重写 zanui。
+
+## 组件
+
+* [mpvue-toast](https://github.com/linrui1994/mpvue-toast) - toast
+* [富文本组件](https://github.com/F-loat/mpvue-wxParse) - 富文本组件
+
+## 示例
+
+* [IT之家Lite](https://github.com/F-loat/ithome-lite) - IT之家
+* [todolist](https://github.com/tangsj/mpvue-todolist) - todo list
+
+## 文档
+
+* [quickstart](https://github.com/mpvue/mpvue-quickstart) - quickstart

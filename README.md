@@ -24,7 +24,7 @@
 ## 组件
 
 * [mpvue-toast](https://github.com/linrui1994/mpvue-toast) - toast
-* [富文本组件](https://github.com/F-loat/mpvue-wxParse) - 富文本组件
+* [mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) - 富文本组件
 * [mpvue-slide](https://github.com/lulusir/mpvue-slide) - 图片滑动组件
 
 ## 示例

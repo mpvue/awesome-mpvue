@@ -36,3 +36,4 @@
 ## 文档
 
 * [quickstart](https://github.com/mpvue/mpvue-quickstart) - quickstart
+* [webpack-mpvue-startup](https://github.com/dwqs/webpack-mpvue-startup) - Webpack 3 + Mpvue 1

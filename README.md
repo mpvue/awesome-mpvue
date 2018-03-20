@@ -32,6 +32,7 @@
 
 * [IT之家Lite](https://github.com/F-loat/ithome-lite) - IT之家
 * [todolist](https://github.com/tangsj/mpvue-todolist) - todo list
+* [mpv-ts-demo](https://github.com/WingGao/mpvue-ts-demo) - 用ts写mpv
 
 ## 文档
 

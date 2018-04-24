@@ -35,6 +35,7 @@
 * [mpvue-slide](https://github.com/lulusir/mpvue-slide) - 图片滑动组件
 * [mpvue-echarts](https://github.com/F-loat/mpvue-echarts) - 图表组件
 * [we-cropper](https://github.com/we-plugin/we-cropper) - 图片裁剪组件
+* [minapp-slider-left](https://github.com/bigmeow/minapp-slider-left) - 一个高性能的左划删除组件
 
 ## 示例
 

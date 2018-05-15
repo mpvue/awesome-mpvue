@@ -37,6 +37,7 @@
 * [mpvue-echarts](https://github.com/F-loat/mpvue-echarts) - 图表组件
 * [we-cropper](https://github.com/we-plugin/we-cropper) - 图片裁剪组件
 * [mpvue-animated-number](https://github.com/gaomd/mpvue-animated-number) - 数字更新滚动动画组件
+* [mpvue-picker](https://github.com/KuangPF/mpvue-picker) - 小程序选择组件
 
 ## 示例
 

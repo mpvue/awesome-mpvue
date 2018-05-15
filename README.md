@@ -28,6 +28,7 @@
 * [WeUI](https://github.com/KuangPF/wxapp-vue) - 用 vue 写小程序，基于 mpvue 框架重写 weui。
 * [mpvue-zanui](https://github.com/samwang1027/mpvue-zanui) - 使用 mpvue 框架重写 zanui。
 * [mp-weui](https://github.com/youngluo/mp-weui) - 基于 mpvue 和 weui-wxss 封装的小程序UI库。
+* [mpvue-simple-cli](https://github.com/spencer1994/mpvue-cli) - 基于 mpvue 及一些基础工具封装的简单cli。
 
 ## 组件
 
@@ -51,3 +52,4 @@
 
 * [quickstart](https://github.com/mpvue/mpvue-quickstart) - quickstart
 * [webpack-mpvue-startup](https://github.com/dwqs/webpack-mpvue-startup) - Webpack 3 + Mpvue 1
+

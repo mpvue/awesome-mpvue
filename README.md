@@ -15,7 +15,7 @@
 - [框架](#框架)
 - [组件](#组件)
 - [示例](#示例)
-- [文档](#文档)
+- [模板](#模板)
 
 ## 工具
 * [flyio](https://github.com/wendux/fly/blob/master/README-CH.md) - 同时支持浏览器、小程序、Node、Weex的基于Promise的跨平台http请求库。可以让您在多个端上尽可能大限度的实现代码复用。
@@ -48,7 +48,7 @@
 * [mpvue-douban](https://github.com/mini-mpvue/mpvue-douban) - 豆瓣电影
 * [mpvue-cnode](https://github.com/bowencool/mpvue-cnode) - CNode社区
 
-## 文档
+## 模板
 
 * [quickstart](https://github.com/mpvue/mpvue-quickstart) - quickstart
 * [webpack-mpvue-startup](https://github.com/dwqs/webpack-mpvue-startup) - Webpack 3 + Mpvue 1

@@ -52,3 +52,4 @@
 
 * [quickstart](https://github.com/mpvue/mpvue-quickstart) - quickstart
 * [webpack-mpvue-startup](https://github.com/dwqs/webpack-mpvue-startup) - Webpack 3 + Mpvue 1
+* [F-loat/mpvue-quickstart](https://github.com/F-loat/mpvue-quickstart) - 使用 mpvue-entry 配置入口，支持新增页面热更新

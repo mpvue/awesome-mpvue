@@ -47,6 +47,7 @@
 * [mpvue-ts-demo](https://github.com/WingGao/mpvue-ts-demo) - 用 ts 写 mpvue
 * [mpvue-douban](https://github.com/mini-mpvue/mpvue-douban) - 豆瓣电影
 * [mpvue-cnode](https://github.com/bowencool/mpvue-cnode) - CNode社区
+* [vue-mpvue-ChatRobot](https://github.com/zz570557024/vue-mpvue-ChatRobot) - 聊天机器人
 
 ## 模板
 

@@ -48,6 +48,7 @@
 * [mpvue-douban](https://github.com/mini-mpvue/mpvue-douban) - 豆瓣电影
 * [mpvue-cnode](https://github.com/bowencool/mpvue-cnode) - CNode社区
 * [vue-mpvue-ChatRobot](https://github.com/zz570557024/vue-mpvue-ChatRobot) - 聊天机器人
+* [mpvue-iview-weapp](https://github.com/wkl007/mpvue-iview-weapp) -基于mpvue导入iview-weapp
 
 ## 模板
 

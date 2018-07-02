@@ -39,6 +39,7 @@
 * [we-cropper](https://github.com/we-plugin/we-cropper) - 图片裁剪组件
 * [mpvue-animated-number](https://github.com/gaomd/mpvue-animated-number) - 数字更新滚动动画组件
 * [mpvue-picker](https://github.com/KuangPF/mpvue-picker) - 小程序选择组件
+* [mpvue-markdown-parser](https://github.com/dwqs/mpvue-markdown-parser) - A markdown parser for mpvue
 
 ## 示例
 
@@ -49,6 +50,7 @@
 * [mpvue-cnode](https://github.com/bowencool/mpvue-cnode) - CNode社区
 * [vue-mpvue-ChatRobot](https://github.com/zz570557024/vue-mpvue-ChatRobot) - 聊天机器人
 * [mpvue-iview-weapp](https://github.com/wkl007/mpvue-iview-weapp) -基于mpvue导入iview-weapp
+* [mpvue-jithub](https://github.com/dwqs/mp-jithub) - Mini program for Github, built by mpvue.
 
 ## 模板
 

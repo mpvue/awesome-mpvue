@@ -48,7 +48,7 @@
 * [mpvue-douban](https://github.com/mini-mpvue/mpvue-douban) - 豆瓣电影
 * [mpvue-cnode](https://github.com/bowencool/mpvue-cnode) - CNode社区
 * [vue-mpvue-ChatRobot](https://github.com/zz570557024/vue-mpvue-ChatRobot) - 聊天机器人
-* [mpvue-meituan](https://github.com/WsmDyj/mpvue) - 美团外卖(第三方)
+* [ 外卖小程序 Demo](https://github.com/WsmDyj/mpvue) - 类似美团外卖的 UI 和 UE
 
 ## 模板
 

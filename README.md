@@ -23,6 +23,7 @@
 * [mpvue-entry](https://github.com/F-loat/mpvue-entry) - 集中式页面配置，避免重复编辑各页面的 main.js 文件，优化目录结构。
 * [mpvue-router-patch](https://github.com/F-loat/mpvue-router-patch) - 在 mpvue 中使用 vue-router 兼容的路由写法。
 * [mpvue-simple-cli](https://github.com/spencer1994/mpvue-cli) - 对官方模版进行改造，使得开发更接近于vue的风格。
+* [mpvuesimple-quickstart](https://github.com/blackjack0v0/mpvuesimple-quickstart) 改造于mpvue-simple-cli与import-weapp-component，支持引入原生小程序组件的快速搭建脚手架
 
 ## 框架
 

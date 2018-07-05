@@ -51,7 +51,8 @@
 * [mpvue-cnode](https://github.com/bowencool/mpvue-cnode) - CNode社区
 * [vue-mpvue-ChatRobot](https://github.com/zz570557024/vue-mpvue-ChatRobot) - 聊天机器人
 * [mpvue-iview-weapp](https://github.com/wkl007/mpvue-iview-weapp) -基于mpvue导入iview-weapp
-* [mpvue-jithub](https://github.com/dwqs/mp-jithub) - Mini program for Github, built by mpvue.
+* [mpvue-jithub](https://github.com/dwqs/mp-jithub) - Mini program for Github, built by mpvue
+* [外卖小程序 Demo](https://github.com/WsmDyj/mpvue) - 类似美团外卖的 UI 和 UE
 
 ## 模板
 

@@ -41,6 +41,7 @@
 * [mpvue-animated-number](https://github.com/gaomd/mpvue-animated-number) - 数字更新滚动动画组件
 * [mpvue-picker](https://github.com/KuangPF/mpvue-picker) - 小程序选择组件
 * [mpvue-markdown-parser](https://github.com/dwqs/mpvue-markdown-parser) - A markdown parser for mpvue
+* [mpvue-img-loader](https://github.com/huangjinlin/mpvue-img-loader) - 图片预加载组件
 
 ## 示例
 

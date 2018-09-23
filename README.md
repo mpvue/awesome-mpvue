@@ -58,6 +58,7 @@
 
 ## 模板
 
+* [ivanlee93/mpvue-cli](https://github.com/ivanlee93/mpvue-cli) - 整合优秀插件，使开发风格更接近Vue/Vuex。
 * [mpvue/mpvue-quickstart](https://github.com/mpvue/mpvue-quickstart) - quickstart
 * [dwqs/webpack-mpvue-startup](https://github.com/dwqs/webpack-mpvue-startup) - Webpack 3 + Mpvue 1
 * [F-loat/mpvue-quickstart](https://github.com/F-loat/mpvue-quickstart) - 使用 mpvue-entry 配置入口，支持新增页面热更新

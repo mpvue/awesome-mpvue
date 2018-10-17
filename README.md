@@ -43,6 +43,7 @@
 * [mpvue-picker](https://github.com/KuangPF/mpvue-picker) - 小程序选择组件
 * [mpvue-markdown-parser](https://github.com/dwqs/mpvue-markdown-parser) - A markdown parser for mpvue
 * [mpvue-img-load](https://github.com/huangjinlin/mpvue-img-load) - 图片预加载组件
+* [mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar) - 日历组件
 
 ## 示例
 

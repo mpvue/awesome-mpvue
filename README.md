@@ -30,6 +30,7 @@
 * [WeUI](https://github.com/KuangPF/wxapp-vue) - 用 vue 写小程序，基于 mpvue 框架重写 weui。
 * [mpvue-zanui](https://github.com/samwang1027/mpvue-zanui) - 使用 mpvue 框架重写 zanui。
 * [mp-weui](https://github.com/youngluo/mp-weui) - 基于 mpvue 和 weui-wxss 封装的小程序UI库。
+* [mpvue-vant](https://github.com/xxxsimons/mpvue-vant) - mpvue中无缝接入[Vant Weapp](https://youzan.github.io/vant-weapp/#/intro)组件库
 
 ## 组件
 
@@ -42,6 +43,7 @@
 * [mpvue-picker](https://github.com/KuangPF/mpvue-picker) - 小程序选择组件
 * [mpvue-markdown-parser](https://github.com/dwqs/mpvue-markdown-parser) - A markdown parser for mpvue
 * [mpvue-img-load](https://github.com/huangjinlin/mpvue-img-load) - 图片预加载组件
+* [mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar) - 日历组件
 
 ## 示例
 
@@ -58,6 +60,7 @@
 
 ## 模板
 
+* [ivanlee93/mpvue-cli](https://github.com/ivanlee93/mpvue-cli) - 整合优秀插件，使开发风格更接近Vue/Vuex。
 * [mpvue/mpvue-quickstart](https://github.com/mpvue/mpvue-quickstart) - quickstart
 * [dwqs/webpack-mpvue-startup](https://github.com/dwqs/webpack-mpvue-startup) - Webpack 3 + Mpvue 1
 * [F-loat/mpvue-quickstart](https://github.com/F-loat/mpvue-quickstart) - 使用 mpvue-entry 配置入口，支持新增页面热更新

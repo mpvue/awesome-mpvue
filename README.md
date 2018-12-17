@@ -57,6 +57,7 @@
 * [mpvue-jithub](https://github.com/dwqs/mp-jithub) - Mini program for Github, built by mpvue
 * [外卖小程序 Demo](https://github.com/WsmDyj/mpvue) - 类似美团外卖的 UI 和 UE
 * [wordpress博客微信小程序](https://github.com/hualuoyixiao/wechat-wordpress-blog-mpvue) - wordpress博客小程序
+* [mpvue-market](https://github.com/wkl007/mpvue-market) - 基于mpvue的小程序营销组件，支持：大转盘、刮刮乐、老虎机、水果机、摇一摇、手势解锁
 
 ## 模板
 

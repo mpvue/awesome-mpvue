@@ -23,6 +23,7 @@
 * [mpvue-entry](https://github.com/F-loat/mpvue-entry) - 集中式页面配置，避免重复编辑各页面的 main.js 文件，优化目录结构。
 * [mpvue-router-patch](https://github.com/F-loat/mpvue-router-patch) - 在 mpvue 中使用 vue-router 兼容的路由写法。
 * [mpvue-packager](https://github.com/F-loat/mpvue-packager) - 开箱即用的 mpvue 打包工具，双端支持。
+* [mpvue-config-loader](https://github.com/F-loat/mpvue-config-loader) - 单文件页面配置，支持全局组件引用。
 
 ## 框架
 

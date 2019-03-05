@@ -25,6 +25,7 @@
 * [mpvue-packager](https://github.com/F-loat/mpvue-packager) - 开箱即用的 mpvue 打包工具，双端支持。
 * [mpvue-config-loader](https://github.com/F-loat/mpvue-config-loader) - 单文件页面配置，支持全局组件引用。
 * [import-weapp-component](https://github.com/JJJYY/import-weapp-component) - import weapp components webpack plugin
+* [vue-router-mp](https://github.com/Cweili/vue-router-mp) - mpvue 中使用的 vue-router 兼容路由，兼容大部分 vue-router API，含导航守卫、命名路由等。
 
 ## 框架
 
